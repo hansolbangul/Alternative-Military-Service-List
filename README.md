@@ -49,6 +49,7 @@
 - [CHEQUER](https://querypie.career.greetinghr.com/) [쿼리파이, SQLGate] - (Pre-A, 210억)
 - [와탭](https://www.whatap.io/ko/careers/) [와탭] - (Series B, 183억+)
 - [테크랩스](http://nextmatch.kr/) [아만다, 점신, 너랑나랑] - (Series A, 157억)
+- [엔라이즈](https://nrise.net/) [위피, 콰트] - (Series B, 160억)
 - 커먼컴퓨터 [AI 네트워크] - (Series B, 142억)
 - 파이랩 [바이프로스트] - (Series A, 140억)
 - [페이타랩](https://recruit.passorder.co.kr/) [패스오더] - (Series B, 137억)
