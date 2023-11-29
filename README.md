@@ -10,29 +10,29 @@
 
 ### 산업기능요원 가능 회사 리스트
 
-- [우아한형제들](https://career.woowahan.com/) [배달의민족, 만화경] - (M&A, 4조+[독일스타트업 인수])
-- [야놀자](https://careers.yanolja.co/) [야놀자] - (Series E, 2조+)
+- ~~[우아한형제들](https://career.woowahan.com/) [배달의민족, 만화경] - (M&A, 4조+[독일스타트업 인수])~~
+- ~~[야놀자](https://careers.yanolja.co/) [야놀자] - (Series E, 2조+)~~
 - [비바리퍼블리카](https://toss.im/career/jobs) [토스] - (Series G, 1조+)
-- [하이퍼커넥트](https://career.hyperconnect.com/jobs/) [아자르] - (M&A, 1조+[매치그룹 인수])
+- ~~[하이퍼커넥트](https://career.hyperconnect.com/jobs/) [아자르] - (M&A, 1조+[매치그룹 인수])~~
 - [리디](https://ridicorp.com/career여기어) [리디북스] - (Pre-IPO, 3855억)
-- [여기어때](https://gccompany.career.greetinghr.com/?gclid=Cj0KCQiA4OybBhCzARIsAIcfn9nb6DuuZGdmvGMhzN2XNb91OXaWN8Z49fajKEf88DHrzRpl0KzpxT8aAqjtEALw_wcB) [여기어때, 호텔타임] - (Series C, 3330억[영국투자회사 인수])
-- [버킷플레이스](https://www.bucketplace.com/careers/) [오늘의집] - (Series D, 3230억)
-- [무신사](https://musinsa.career.greetinghr.com/) [무신사] - (Series B, 3200억)
+- ~~[여기어때](https://gccompany.career.greetinghr.com/?gclid=Cj0KCQiA4OybBhCzARIsAIcfn9nb6DuuZGdmvGMhzN2XNb91OXaWN8Z49fajKEf88DHrzRpl0KzpxT8aAqjtEALw_wcB) [여기어때, 호텔타임] - (Series C, 3330억[영국투자회사 인수])~~
+- ~~[버킷플레이스](https://www.bucketplace.com/careers/) [오늘의집] - (Series D, 3230억)~~
+- ~~[무신사](https://musinsa.career.greetinghr.com/) [무신사] - (Series B, 3200억)~~
 - [번개장터](https://team.bgzt.co.kr/) [번개장터, 셀잇, 세컨폰] - (Series D, 3000억)
 - [뤼이드](https://jobs.lever.co/riiidlabs?location=Seoul) [산타토익] - (Series D, 2809억+)
 - [샌드버드](https://sendbird.com/careers) [샌드버드] - (Series C, 2507억+)
-- [드라마앤컴퍼니](https://hello.remember.co.kr/) [리멤버] - (Series D, 2370억[라인 인수])
-- [당근마켓](https://team.daangn.com/jobs/) [당근마켓] - (Series D, 2270억)
-- [에이블리코퍼레이션](https://ably.team/recruit) [에이블리] - (Series C, 1730억)
+- ~~[드라마앤컴퍼니](https://hello.remember.co.kr/) [리멤버] - (Series D, 2370억[라인 인수])~~
+- ~~[당근마켓](https://team.daangn.com/jobs/) [당근마켓] - (Series D, 2270억)~~
+- ~~[에이블리코퍼레이션](https://ably.team/recruit) [에이블리] - (Series C, 1730억)~~
 - [피플펀드컴퍼니](https://www.peoplefund.co.kr/recruit) [피플펀드] - (Series E, 1321억)
 - [뱅크샐러드](https://career.banksalad.com/jobs/) [뱅크샐러드] - (Series D, 1269억+)
 - [마이리얼트립](https://career.myrealtrip.com/) [마이리얼트립] - (Series E, 1224억)
 - [매스프레소](https://team.mathpresso.com/) [콴다] - (Series C, 1214억+)
-- [코인원](https://recruit.coinonecorp.com/) [코인원] - (M&A, 1118억+[컴투스 인수])
+- ~~[코인원](https://recruit.coinonecorp.com/) [코인원] - (M&A, 1118억+[컴투스 인수])~~
 - [베이글코드](https://bagelcode.recruiter.co.kr/appsite/company/index) [클럽 베가스] - (Series D, 772억)
-- [정육각](https://jeongyookgak.career.greetinghr.com/?gclid=Cj0KCQiA4OybBhCzARIsAIcfn9nT0OKmnAEQcmoGahZMYk_6n_NdMyFoakZNT8nsdRxDgui431aJgkoaAskDEALw_wcB) [정육각] - (Series C, 697억)
+- ~~[정육각](https://jeongyookgak.career.greetinghr.com/?gclid=Cj0KCQiA4OybBhCzARIsAIcfn9nT0OKmnAEQcmoGahZMYk_6n_NdMyFoakZNT8nsdRxDgui431aJgkoaAskDEALw_wcB) [정육각] - (Series C, 697억)~~
 - [에잇퍼센트](https://8percent.github.io/recruit/) [8퍼센트] - (Series D, 693억+)
-- [왓챠](https://watcha.team/81b8ab72-1a44-4d6c-a418-bbaed702c429) [와챠] - (Series D, 605억+)
+- ~~[왓챠](https://watcha.team/81b8ab72-1a44-4d6c-a418-bbaed702c429) [와챠] - (Series D, 605억+)~~
 - [라포랩스](https://www.rapportlabs.kr/) [퀸잇] - (Series B, 515억)
 - [플렉스](https://career.flex.team/recruit) [플렉스] - (Series B, 480억)
 - 마인즈랩 [마음AI] - (IPO, 464억+)
